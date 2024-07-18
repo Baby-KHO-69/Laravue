@@ -1,7 +1,7 @@
 <template>
     
 
-<footer class="bg-white  shadow dark:bg-gray-900 pb-3  w-full flex flex-column items-center mt-auto">
+<footer class=" shadow dark:bg-gray-900 pb-3  w-full flex flex-column items-center mt-auto">
     <div class="w-full max-w-screen-xl   mx-auto p-4 md:py-8">
         <div class="sm:flex  sm:items-center sm:justify-center ">
             
